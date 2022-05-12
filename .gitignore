@@ -1,0 +1,6 @@
+*__pycache__
+.idea
+women.jpeg
+venv
+db.sqlite3
+media
